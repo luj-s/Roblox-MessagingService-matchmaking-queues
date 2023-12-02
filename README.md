@@ -1,7 +1,5 @@
-
 # Roblox-MessagingService-matchmaking-queues
 Simple global MessagingService matchmaking system with queues.
-
 
 # API
 
