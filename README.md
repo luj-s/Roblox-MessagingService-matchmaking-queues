@@ -1,7 +1,7 @@
 # Roblox MessagingService matchmaking queues
 Simple global MessagingService matchmaking system with queues.
 
-# Importing
+# Usage
 To use this module into your Roblox game, simply download ![Queues.rbxm](Queues.rbxm?raw=true "Queues.rbxm"), insert the [model](https://create.roblox.com/marketplace/asset/15528670427) or import the 
 [package](https://create.roblox.com/marketplace/asset/15528694525). 
 
